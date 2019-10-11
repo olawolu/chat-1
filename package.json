@@ -4,11 +4,12 @@
   "description": "Web chat application to understand javascript",
   "main": "server.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/olawolu/chat.git"
+    "url": "https://github.com/olawolu/chat.git"
   },
   "keywords": [
     "web",
